@@ -1,6 +1,6 @@
 ## Hi there, I'm Khaled Emam 👋
 
-I'm a Data Scientist | Machine Learning Engineer. I have a Bachelor's degree in Electrical Engineering and possess a strong foundation in mathematics. I have a deep understanding of various Machine Learning techniques and tools. I'm constantly seeking opportunities to develop my skills and knowledge in the field. I regularly write data science blogs on Medium. You can find them [here](https://medium.com/@khaledeemam). Below this intro, I have listed some of my projects and experiences for you to peruse.
+I'm a Data Scientist | Data analyst. I have a Bachelor's degree in Electrical Engineering and possess a strong foundation in mathematics. I have a deep understanding of various Machine Learning techniques and tools. I'm constantly seeking opportunities to develop my skills and knowledge in the field. I regularly write data science blogs on Medium. You can find them [here](https://medium.com/@khaledeemam). Below this intro, I have listed some of my projects and experiences for you to peruse.
 
 ## Machine Learning :
 
