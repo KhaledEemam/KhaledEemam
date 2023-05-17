@@ -14,6 +14,12 @@ Used a telecommunication company dataset to analyze the reason behind the custom
 
 This project applies supervised ML techniques on data collected for the U.S. census to help CharityML identify groups of people that are most likely to donate to their cause.
 
+### Regression :
+
+• **Automobile Price Prediction** [(Project link)](https://github.com/KhaledEemam/automobile_prices_prediction)
+
+This project focuses on predicting the prices of automobiles using machine learning techniques. It involves importing the data, assessing its quality, identifying and resolving any issues, performing data cleaning, exploratory data analysis (EDA), training machine learning models, hyperparameter tuning, and evaluating the model's performance on testing data.
+
 ### Clustering :
 
 • **Customer Segmentation** [(Project link)](https://github.com/KhaledEemam/customers-segmentation)
