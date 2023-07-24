@@ -1,8 +1,8 @@
 ## Hi there, I'm Khaled Emam 👋
 
-I'm a Data Scientist | Data analyst. I have a Bachelor's degree in Electrical Engineering and possess a strong foundation in mathematics. I have a deep understanding of various Machine Learning techniques and tools. I'm constantly seeking opportunities to develop my skills and knowledge in the field. I regularly write data science blogs on Medium. You can find them [here](https://medium.com/@khaledeemam). Below this intro, I have listed some of my projects and experiences for you to peruse.
+I'm a Data Scientist | Data analyst. I have a Bachelor's degree in Electrical Engineering and possess a strong foundation in mathematics. I have a wide range of skill sets, which includes data analysis, data visualization, data modeling, machine learning, and deep learning using various techniques and tools. I'm constantly seeking opportunities to develop my skills and knowledge in the field. I regularly write data science blogs on Medium. You can find them [here](https://medium.com/@khaledeemam). Below this intro, I have listed some of my projects and experiences for you to peruse.
 
-## Machine Learning :
+## Data analysis & Machine Learning :
 
 ### Classification :
 
@@ -26,6 +26,60 @@ This project focuses on predicting the prices of automobiles using machine learn
 
 Implemented Unsupervised Learning techniques to identify customer segments. (K-means Clustering , PCA)
 
+## Data Analysis & reporting :
+
+• **No-show Appointments Data Analysis** [(Project link)](https://github.com/KhaledEemam/Udacity_analyzing_no_show_appointments_data)
+
+Used Numpy & Pandas to analyze doctor appointments data to figure the reason behind people’s absence to their appointments
+
+• **E-commerce A/B Testing** [(Project link)](https://github.com/KhaledEemam/udacity_analyze_AB_Test_results)
+
+Performed A/B testing on an e-commerce website to help in making decision whether by implementing this new page, keeping the old page.
+
+• **Communicate data findings** [(Project link)](https://github.com/KhaledEemam/Udacity_Communicate_data-findings)
+
+Implemented different Visualizations using seaborn to show the summary of findings.
+
+## Data Visualization :
+
+• **Sales Analysis interactive dashboard** [(Project link)](https://github.com/KhaledEemam/sales_analysis_interactive_tableau)
+
+Interactive dashboard visualizes different trends in sales through different states, payment methods and sales categories.
+
+• **Netflix Shows Dashboard** [(Project link)](https://github.com/KhaledEemam/netflix_dashboard_tableau)
+
+Created a dashboard using Tableau to show different Visualizations for Netflix shows.
+
+• **Pizza sales dashboard** [(Project link)](https://github.com/KhaledEemam/pizza_sales_dashboard/tree/master)
+
+The purpose of this project is to gain insights into the pizza place's sales and make data-driven decisions based on the analysis. (Power BI)
+
+## SQL :
+
+• **Investigating Chinook Database** [(Project link)](https://github.com/KhaledEemam/chinook_database_sql_server)
+
+Created database using SQL server and used queries to answer questions about it.
+
+• **IPL Data Analysis Using SQL** [(Project link)](https://github.com/KhaledEemam/exploring_IPL_database_with_SQL)
+
+ Analyzed Indian Premier League data using SQL to find top run-scorers, wicket-takers, best economic bowlers and additional insights about the IPL database. (Data Analysis - SQL)
+
+## ETL :
+
+• **ETL Telecom Case Study** [(Project link)](https://github.com/KhaledEemam/ETL-Telecom_Case_Study)
+
+This is a project that involves Extracting, Transforming, and Loading (ETL) data from CSV files into a database. It provides a solution for storing and processing data related to customer transactions for a telecommunications company.
+
+## Web Scraping :
+
+•	**Scraping Wuzzuf** [(Project link)](https://github.com/KhaledEemam/web_scraping_wuzzuf-)
+
+Created a script that asks the user to enter a keyword for a job to search for it in Wuzzuf, then it searches for all the available opportunities in it and returns CSV file contains all the required info about the offered jobs (BeautifulSoup- Selenium)
+
+•	**Scraping Google images** [(Project link)](https://github.com/KhaledEemam/web_scraping_downloading_images)
+
+Created a script that asks the users to enter a keyword for the item they want images for, then it asks them about the number of images they want, then the script takes control and downloads the images. (BeautifulSoup- Selenium)
+
 ## Deep Learning :
 
 • **Image Caption Generator** [(Project link)](https://github.com/KhaledEemam/image-caption-generator)
@@ -42,49 +96,6 @@ Created a dogs breed classifier using transfer learning & haarcascades to identi
 
 Applied custom training for YOLO 7  to be used to identify whether people are with mask , without mask or mask worn wrong. (DL - CNN- Classification)
 
-## Data Analysis & reporting :
-
-• **No-show Appointments Data Analysis** [(Project link)](https://github.com/KhaledEemam/Udacity_analyzing_no_show_appointments_data)
-
-Used Numpy & Pandas to analyze doctor appointments data to figure the reason behind people’s absence to their appointments
-
-• **E-commerce A/B Testing** [(Project link)](https://github.com/KhaledEemam/udacity_analyze_AB_Test_results)
-
-Performed A/B testing on an e-commerce website to help in making decision whether by implementing this new page, keeping the old page.
-
-• **Communicate data findings** [(Project link)](https://github.com/KhaledEemam/Udacity_Communicate_data-findings)
-
-Implemented different Visualizations using seaborn to show the summary of findings.
-
-## Tableau :
-
-• **Sales Analysis interactive dashboard** [(Project link)](https://github.com/KhaledEemam/sales_analysis_interactive_tableau)
-
-Interactive dashboard visualizes different trends in sales through different states, payment methods and sales categories.
-
-• **Netflix Shows Dashboard** [(Project link)](https://github.com/KhaledEemam/netflix_dashboard_tableau)
-
-Created a dashboard using Tableau to show different Visualizations for Netflix shows.
-
-## SQL :
-
-• **Investigating Chinook Database** [(Project link)](https://github.com/KhaledEemam/chinook_database_sql_server)
-
-Created database using SQL server and used queries to answer questions about it.
-
-• **IPL Data Analysis Using SQL** [(Project link)](https://github.com/KhaledEemam/exploring_IPL_database_with_SQL)
-
- Analyzed Indian Premier League data using SQL to find top run-scorers, wicket-takers, best economic bowlers and additional insights about the IPL database. (Data Analysis - SQL)
-
-## Web Scraping :
-
-•	**Scraping Wuzzuf** [(Project link)](https://github.com/KhaledEemam/web_scraping_wuzzuf-)
-
-Created a script that asks the user to enter a keyword for a job to search for it in Wuzzuf, then it searches for all the available opportunities in it and returns CSV file contains all the required info about the offered jobs (BeautifulSoup- Selenium)
-
-•	**Scraping Google images** [(Project link)](https://github.com/KhaledEemam/web_scraping_downloading_images)
-
-Created a script that asks the users to enter a keyword for the item they want images for, then it asks them about the number of images they want, then the script takes control and downloads the images. (BeautifulSoup- Selenium)
 
 ## Certifications and courses :
 
