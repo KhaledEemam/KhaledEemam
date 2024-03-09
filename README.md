@@ -86,7 +86,17 @@ Created a script that asks the users to enter a keyword for the item they want i
 
 In this project, I implemented a model that receives images from users and generates captions for them. The model was trained using the Flickr30k dataset
 
-### Computer Vision :
+• **RAG app** [(Project link)](https://github.com/KhaledEemam/Simple-RAG-App)
+
+This is a RAG app that processes PDFs into embeddings using an LLM, storing them in a Chroma vector database. Utilized LangChain's stuff chain to retrieve answers by matching user questions with similar text chunks. (llms- LangChain)
+
+• **Sentiment-Classification** [(Project link)](https://github.com/KhaledEemam/Sentiment-Classification)
+
+implemented text preprocessing and utilized several text representations, such as TF-IDF and word2vec. Additionally, I applied various approaches, including classical ML models, DL model and BERT fine-tuning. (NLP)
+
+• **Multi-Class Prediction of Obesity Risk** [(Project link)](https://www.kaggle.com/code/khalidemam/multi-class-prediction-of-obesity-risk)
+
+A multi-class prediction project where i utilized data visualization, statistical analysis, and feature engineering techniques, followed by implementation of various machine learning models, with further fine-tuning using Optuna.
 
 • **Dog breed Classifier** [(Project link)](https://github.com/KhaledEemam/Dog_breed_classifier_using_CNN)
 
