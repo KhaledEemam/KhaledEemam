@@ -5,6 +5,7 @@ I'm a Data Scientist. I have a Bachelor's degree in Electrical Engineering and p
 ## Deep Learning :
 
 •	**Named Entity recognition project** [(Project link)](https://github.com/KhaledEemam/Named-Entity-Recognition-NER-)
+
 Worked on a NER task to classify input text tokens into predefined labels using two approaches: one with the BI-LSTM-CRF model and the other with BERT, fine-tuning it. Achieved a 96% f1_score and made the model accessible by creating an API. Additionally, I developed a Dockerfile to simplify project dependency installation. Tech stack used (Python , Pytorch , FastAPI, Docker)
 
 
