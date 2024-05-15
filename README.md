@@ -1,6 +1,33 @@
 ## Hi there, I'm Khaled Emam 👋
 
-I'm a Data Scientist | Data analyst. I have a Bachelor's degree in Electrical Engineering and possess a strong foundation in mathematics. I have a wide range of skill sets, which includes data analysis, data visualization, data modeling, machine learning, and deep learning using various techniques and tools. I'm constantly seeking opportunities to develop my skills and knowledge in the field. Below this intro, I have listed some of my projects and experiences for you to peruse.
+I'm a Data Scientist. I have a Bachelor's degree in Electrical Engineering and possess a strong foundation in mathematics. I have a wide range of skill sets, which includes data analysis, data visualization, data modeling, machine learning, and deep learning using various techniques and tools. I'm constantly seeking opportunities to develop my skills and knowledge in the field. Below this intro, I have listed some of my projects and experiences for you to peruse.
+
+## Deep Learning :
+
+• **Image Caption Generator** [(Project link)](https://github.com/KhaledEemam/image-caption-generator)
+
+In this project, I implemented a model that receives images from users and generates captions for them. The model was trained using the Flickr30k dataset
+
+• **RAG app** [(Project link)](https://github.com/KhaledEemam/Simple-RAG-App)
+
+This is a RAG app that processes PDFs into embeddings using an LLM, storing them in a Chroma vector database. Utilized LangChain's stuff chain to retrieve answers by matching user questions with similar text chunks. (llms- LangChain)
+
+• **Sentiment-Classification** [(Project link)](https://github.com/KhaledEemam/Sentiment-Classification)
+
+implemented text preprocessing and utilized several text representations, such as TF-IDF and word2vec. Additionally, I applied various approaches, including classical ML models, DL model and BERT fine-tuning. (NLP)
+
+• **Multi-Class Prediction of Obesity Risk** [(Project link)](https://www.kaggle.com/code/khalidemam/multi-class-prediction-of-obesity-risk)
+
+A multi-class prediction project where i utilized data visualization, statistical analysis, and feature engineering techniques, followed by implementation of various machine learning models, with further fine-tuning using Optuna.
+
+• **Dog breed Classifier** [(Project link)](https://github.com/KhaledEemam/Dog_breed_classifier_using_CNN)
+
+Created a dogs breed classifier using transfer learning & haarcascades to identify an estimate of the canine’s breed. If supplied an image of a human, it will identify the resembling dog breed. (DL - Computer Vision -CNN – Transfer learning- VGG)
+
+• **Face Mask detection** [(Project link)](https://github.com/KhaledEemam/face_mask_detection_YOLO7_CNN)
+
+Applied custom training for YOLO 7  to be used to identify whether people are with mask , without mask or mask worn wrong. (DL - CNN- Classification)
+
 
 ## Data analysis & Machine Learning :
 
@@ -79,32 +106,6 @@ Created a script that asks the user to enter a keyword for a job to search for i
 •	**Scraping Google images** [(Project link)](https://github.com/KhaledEemam/web_scraping_downloading_images)
 
 Created a script that asks the users to enter a keyword for the item they want images for, then it asks them about the number of images they want, then the script takes control and downloads the images. (BeautifulSoup- Selenium)
-
-## Deep Learning :
-
-• **Image Caption Generator** [(Project link)](https://github.com/KhaledEemam/image-caption-generator)
-
-In this project, I implemented a model that receives images from users and generates captions for them. The model was trained using the Flickr30k dataset
-
-• **RAG app** [(Project link)](https://github.com/KhaledEemam/Simple-RAG-App)
-
-This is a RAG app that processes PDFs into embeddings using an LLM, storing them in a Chroma vector database. Utilized LangChain's stuff chain to retrieve answers by matching user questions with similar text chunks. (llms- LangChain)
-
-• **Sentiment-Classification** [(Project link)](https://github.com/KhaledEemam/Sentiment-Classification)
-
-implemented text preprocessing and utilized several text representations, such as TF-IDF and word2vec. Additionally, I applied various approaches, including classical ML models, DL model and BERT fine-tuning. (NLP)
-
-• **Multi-Class Prediction of Obesity Risk** [(Project link)](https://www.kaggle.com/code/khalidemam/multi-class-prediction-of-obesity-risk)
-
-A multi-class prediction project where i utilized data visualization, statistical analysis, and feature engineering techniques, followed by implementation of various machine learning models, with further fine-tuning using Optuna.
-
-• **Dog breed Classifier** [(Project link)](https://github.com/KhaledEemam/Dog_breed_classifier_using_CNN)
-
-Created a dogs breed classifier using transfer learning & haarcascades to identify an estimate of the canine’s breed. If supplied an image of a human, it will identify the resembling dog breed. (DL - Computer Vision -CNN – Transfer learning- VGG)
-
-• **Face Mask detection** [(Project link)](https://github.com/KhaledEemam/face_mask_detection_YOLO7_CNN)
-
-Applied custom training for YOLO 7  to be used to identify whether people are with mask , without mask or mask worn wrong. (DL - CNN- Classification)
 
 
 ## Certifications and courses :
