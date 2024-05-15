@@ -4,6 +4,10 @@ I'm a Data Scientist. I have a Bachelor's degree in Electrical Engineering and p
 
 ## Deep Learning :
 
+•	**Named Entity recognition project** [(Project link)](https://github.com/KhaledEemam/Named-Entity-Recognition-NER-)
+Worked on a NER task to classify input text tokens into predefined labels using two approaches: one with the BI-LSTM-CRF model and the other with BERT, fine-tuning it. Achieved a 96% f1_score and made the model accessible by creating an API. Additionally, I developed a Dockerfile to simplify project dependency installation. Tech stack used (Python , Pytorch , FastAPI, Docker)
+
+
 • **Image Caption Generator** [(Project link)](https://github.com/KhaledEemam/image-caption-generator)
 
 In this project, I implemented a model that receives images from users and generates captions for them. The model was trained using the Flickr30k dataset
