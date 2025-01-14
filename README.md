@@ -1,8 +1,13 @@
 ## Hi there, I'm Khaled Emam 👋
 
-I'm a Data Scientist. I have a Bachelor's degree in Electrical Engineering and possess a strong foundation in mathematics. I have a wide range of skill sets, which includes data analysis, data visualization, data modeling, machine learning, and deep learning using various techniques and tools. I'm constantly seeking opportunities to develop my skills and knowledge in the field. Below this intro, I have listed some of my projects and experiences for you to peruse.
+I'm a Frontend Developer with a strong foundation in problem-solving and a background in electrical engineering. Also I have a wide range of skill sets, which includes data analysis, data visualization, data modeling and machine learning using various techniques and tools. Below this intro, I have listed some of my projects and experiences for you to peruse.
 
-## Deep Learning :
+## Projects :
+
+•	**E-Commerce-Web-Application** [(Project link)](https://github.com/KhaledEemam/E-Commerce-Web-Application)
+
+Developed a full-stack e-commerce application with a Strapi backend for managing APIs and user authentication, and a React.js + TypeScript frontend styled with Material UI. Implemented features like product filtering, a shopping cart, favorites, and a light/dark theme toggle. Ensured code reliability with unit and integration testing using Vitest and React Testing Library.
+Tech Stack: React.js, TypeScript, Material UI, Strapi, Vite, Vitest, React Testing Library, Docker
 
 •	**OCR** [(Project link)](https://github.com/KhaledEemam/OCR)
 
@@ -41,10 +46,6 @@ Designed a Sentiment-Classification project using SpaCy, NLTK, Keras, and scikit
 
 Classified individuals into 7 categories (e.g., Obesity_Type_III, Normal_Weight) using Seaborn, Matplotlib, and sklearn for data visualization, statistical analysis, and feature engineering. Experimented using RandomForestClassifier, XGB Classifier, Neural Network, and Ensemble Learning, optimizing models with Optuna for 90% accuracy.
 
-## Data analysis & Machine Learning :
-
-### Classification :
-
 • **Churn Prediction Project** [(Project link)](https://github.com/KhaledEemam/Churn-Prediction)
 
 Utilized a dataset from a telecommunications company to analyze customer churn factors and built a machine learning model to predict customer churn. Achieved a recall score of 0.84, demonstrating effective identification of churn patterns. Conducted data wrangling, data analysis, and applied machine learning techniques (e.g., logistic regression, decision trees, SVC) to achieve predictive insights. Key technologies ( Python, scikit-learn, and TensorFlow).
@@ -53,13 +54,9 @@ Utilized a dataset from a telecommunications company to analyze customer churn f
 
 Developed a model to predict groups of people that are most likely to donate using Gradient Boosting, achieving 87.2% accuracy. Used Python, Scikit-learn, and Pandas for preprocessing, feature engineering, and model training. Evaluated models including SVC and Random Forest. Applied GridSearchCV for optimization and performed feature importance analysis to reduce feature space and enhance efficiency.
 
-### Regression :
-
 • **Automobile Price Prediction** [(Project link)](https://github.com/KhaledEemam/automobile_prices_prediction)
 
 Created a jupyter notebook which involved importing the data, assessing its quality, resolving any issues, performing data cleaning, EDA, training machine learning models, hyperparameter tuning, and model evaluation on testing data.
-
-### Clustering :
 
 • **Customer Segmentation** [(Project link)](https://github.com/KhaledEemam/customers-segmentation)
 
@@ -79,8 +76,6 @@ Performed A/B testing on an e-commerce website to help in making decision whethe
 
 Implemented different Visualizations using seaborn to show the summary of findings.
 
-## Data Visualization :
-
 • **Sales Analysis interactive dashboard** [(Project link)](https://github.com/KhaledEemam/sales_analysis_interactive_tableau)
 
 Interactive dashboard visualizes different trends in sales through different states, payment methods and sales categories.
@@ -93,8 +88,6 @@ Created a dashboard using Tableau to show different Visualizations for Netflix s
 
 The purpose of this project is to gain insights into the pizza place's sales and make data-driven decisions based on the analysis. (Power BI)
 
-## SQL :
-
 • **Investigating Chinook Database** [(Project link)](https://github.com/KhaledEemam/chinook_database_sql_server)
 
 Created database using SQL server and used queries to answer questions about it.
@@ -103,13 +96,9 @@ Created database using SQL server and used queries to answer questions about it.
 
  Analyzed Indian Premier League data using SQL to find top run-scorers, wicket-takers, best economic bowlers and additional insights about the IPL database. (Data Analysis - SQL)
 
-## ETL :
-
 • **ETL Telecom Case Study** [(Project link)](https://github.com/KhaledEemam/ETL-Telecom_Case_Study)
 
 This is a project that involves Extracting, Transforming, and Loading (ETL) data from CSV files into a database. It provides a solution for storing and processing data related to customer transactions for a telecommunications company.
-
-## Web Scraping :
 
 •	**Scraping Wuzzuf** [(Project link)](https://github.com/KhaledEemam/web_scraping_wuzzuf-)
 
@@ -118,20 +107,3 @@ Created a script that asks the user to enter a keyword for a job to search for i
 •	**Scraping Google images** [(Project link)](https://github.com/KhaledEemam/web_scraping_downloading_images)
 
 Created a script that asks the users to enter a keyword for the item they want images for, then it asks them about the number of images they want, then the script takes control and downloads the images. (BeautifulSoup- Selenium)
-
-
-## Certifications and courses :
-
-• Deep learning specialization by Andrew Ng - Coursera
-
-• Analyzing data in Tableau - Datacamp
-
-• Data Analyst with Python Track - Datacamp
-
-• Data Analyst with SQL Server Track - Datacamp
-
-• Machine learning course by Andrew Ng - Coursera
-
-• Advanced Data Analysis Nanodegree program - Udacity
-
-• Data Analysis Professional Nanodegree program - Udacity
