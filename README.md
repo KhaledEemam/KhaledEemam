@@ -62,8 +62,6 @@ Created a jupyter notebook which involved importing the data, assessing its qual
 
 Implemented Unsupervised Learning techniques to identify customer segments. (K-means Clustering , PCA)
 
-## Data Analysis & reporting :
-
 • **No-show Appointments Data Analysis** [(Project link)](https://github.com/KhaledEemam/Udacity_analyzing_no_show_appointments_data)
 
 Used Numpy & Pandas to analyze doctor appointments data to figure the reason behind people’s absence to their appointments
